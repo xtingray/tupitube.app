@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+   <isCellPhone>false</isCellPhone>
+   <lowRes>true</lowRes>
+   <iconSize>32</iconSize>
+   <smallIconSize>0</smallIconSize>
+   <iconWidth>60</iconWidth>
+   <barSpacing>30</barSpacing> 
+   <borderRadius>5</borderRadius>
+   <vSliderWidth>81</vSliderWidth>
+   <hSliderWidth>24</hSliderWidth>
+   <titleSize>18</titleSize>
+   <titleHeight>50</titleHeight>
+   <textSize>16</textSize>
+   <helpTextSize>13</helpTextSize>
+   <boldTitleHeight>80</boldTitleHeight>
+   <dialogButtonsHeight>100</dialogButtonsHeight>
+   <actionDialogSize>500,500</actionDialogSize>
+   <settingsDialogSize>650,600</settingsDialogSize>
+   <colorCellSize>60,60</colorCellSize>
+   <colorTypeSpacing>20</colorTypeSpacing>
+   <colorTypeSeparator>10</colorTypeSeparator>
+   <colorTypeHeight>200</colorTypeHeight>
+   <baseColorHeight>90</baseColorHeight>
+   <baseColorCellSize>90,70</baseColorCellSize>
+   <baseColorSpacing>30</baseColorSpacing>
+   <colorButtonParams>20,3,1</colorButtonParams>
+   <colorSliderHeight>150</colorSliderHeight>
+   <colorDialogSize>1000,900</colorDialogSize>
+   <strokeDialogSize>650,490</strokeDialogSize>
+   <opacityDialogSize>650,490</opacityDialogSize>
+   <brushesDialogSize>800,470</brushesDialogSize>
+   <postSpacing>50</postSpacing>
+   <postDialogSize>700,370</postDialogSize>
+   <helpDialogSize>900,670</helpDialogSize>
+   <galleryPortraitWidth>200</galleryPortraitWidth>
+   <galleryLandscapeWidth>355</galleryLandscapeWidth>
+   <galleryRowSize>4</galleryRowSize>
+   <galleryDialogSize>800,480</galleryDialogSize>
+   <removePortraitSize>440,510</removePortraitSize>
+   <removeLandscapeSize>440,380</removeLandscapeSize>
+   <quitDialogSize>400,310</quitDialogSize>
+</settings>

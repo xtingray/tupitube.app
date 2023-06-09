@@ -1,0 +1,1 @@
+TupiTube.exe 2> log.txt

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+   <isCellPhone>true</isCellPhone>
+   <lowRes>true</lowRes>
+   <iconSize>56</iconSize>
+   <smallIconSize>56</smallIconSize>
+   <iconWidth>50</iconWidth>
+   <hiddenIconWidth>300</hiddenIconWidth>
+   <floatingMenuHeight>500</floatingMenuHeight>
+   <barSpacing>30</barSpacing> 
+   <borderRadius>5</borderRadius>
+   <vSliderWidth>81</vSliderWidth>
+   <hSliderWidth>25</hSliderWidth>
+   <titleSize>20</titleSize>
+   <titleHeight>50</titleHeight>
+   <textSize>18</textSize>
+   <helpTextSize>18</helpTextSize>
+   <consoleFontSize>18</consoleFontSize>
+   <consolePos>85,12</consolePos>
+   <splashLogoWidth>430</splashLogoWidth>
+   <splashSloganWidth>430</splashSloganWidth>
+   <splashButtonWidth>180</splashButtonWidth>
+   <splashFooterHeight>120</splashFooterHeight>
+   <boldTitleHeight>80</boldTitleHeight>
+   <dialogButtonsHeight>80</dialogButtonsHeight>
+   <colorCellSize>60,60</colorCellSize>
+   <colorTypeSpacing>10</colorTypeSpacing>
+   <colorTypeSeparator>10</colorTypeSeparator>
+   <colorTypeHeight>100</colorTypeHeight>
+   <baseColorHeight>90</baseColorHeight>
+   <baseColorCellSize>80,60</baseColorCellSize>
+   <baseColorSpacing>20</baseColorSpacing>
+   <colorButtonParams>20,3,1</colorButtonParams>
+   <colorSliderHeight>85</colorSliderHeight>
+   <postSpacing>50</postSpacing>
+   <galleryPortraitWidth>200</galleryPortraitWidth>
+   <galleryLandscapeWidth>355</galleryLandscapeWidth>
+   <removePortraitSize>400,500</removePortraitSize>
+   <removeLandscapeSize>440,380</removeLandscapeSize>
+   <quitDialogSize>480,330</quitDialogSize>
+</settings>
